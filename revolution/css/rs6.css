@@ -1,5 +1,3 @@
-/* FIX FOR WORDPRESS's CRAZY <p> TAG ANOMALY */
-
 .rs-p-wp-fix {
   display: none !important;
   margin: 0 !important;
