@@ -536,7 +536,7 @@ jQuery(function ($) {
     var e =
       '<div class="prt_floting_customsett">' +
       '<a href="contact-us.html" class="tmtheme_fbar_icons"><i class="fa fa-headphones text-primary"></i><span>Support</span></a>' +
-      '<a href="https://wa.me/+979090909090" class="tmtheme_fbar_icons"><i class="bi bi-whatsapp text-success"></i><span>Chat</span></a>' +
+      '<a href="https://wa.me/+055790699" class="tmtheme_fbar_icons"><i class="bi bi-whatsapp text-success"></i><span>Chat</span></a>' +
       '<div class="clearfix"></div>' +
       "</div>";
 
